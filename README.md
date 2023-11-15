@@ -21,7 +21,7 @@
 &nbsp;
 |  Característica |  Información |
 | :------------: | :------------: |
-| Nombre  |  Práctica 16: Implementación de rutas y middlewares para el jugador |
+| Nombre  |  Práctica 16: Creación del modelo jugadores e implementación de búsqueda de todos los jugadores existentes |
 | Descripción  |  Diseñamos un código que engloba un conjunto de funciones destinadas a gestionar diversas operaciones relacionadas con los jugadores en nuestro videojuego. Cada función está diseñada para llevar a cabo una tarea específica en los datos de un jugador dentro del sistema. Estas funciones reciben dos parámetros, rq y rs, que representan la solicitud (request) y la respuesta (response) respectivamente, en el entorno del servidor. Con el propósito de proporcionar claridad sobre la acción en curso, cada función registra mensajes descriptivos en la consola. Además, como parte integral de un API dedicado a la gestión de jugadores, estas funciones responden a solicitudes variadas, abarcando la creación, búsqueda, actualización, cambio de foto de perfil y eliminación de jugadores. |
 |  Fecha de Actividad  |  10 de Noviembre de 2023  |
 
