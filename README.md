@@ -34,13 +34,30 @@
 ## Salida
 <p align="center">
 <img src="https://github.com/Daniela06112002/DMI_PRACTICA16_200644/blob/main/src/screenshots/ConsultaBase.png" width="90%"/>
+  <br>
   <p>
-    Img1. COnsulta de los datos desde la Base.
+    Img1. Consulta de los datos desde la Base.
   </p>
 <img src="https://github.com/Daniela06112002/DMI_PRACTICA16_200644/blob/main/src/screenshots/Controlador.png" width="90%"/>
+<br>
+  <p>
+    Img2. Archivo JS del Controlador.
+  </p>
 <img src="https://github.com/Daniela06112002/DMI_PRACTICA16_200644/blob/main/src/screenshots/Modelo.png" width="90%"/>
-<img src="https://github.com/Daniela06112002/DMI_PRACTICA16_200644/blob/main/src/screenshots/Prueba Ruta.png" width="90%"/>
+<br>
+  <p>
+    Img3. Archivo JS del modelo con el cual se está trabajando
+  </p>
+<img src="https://github.com/Daniela06112002/DMI_PRACTICA16_200644/blob/main/src/screenshots/PruebaRuta.png" width="90%"/>
+<br>
+  <p>
+    Img4. Busqueda de las rutas desde ThunderClient
+  </p>
 <img src="https://github.com/Daniela06112002/DMI_PRACTICA16_200644/blob/main/src/screenshots/Rutas.png" width="90%"/>
+<br>
+  <p>
+    Img5. Dirección de cada una de las rutas
+  </p>
 </p>
 
 
