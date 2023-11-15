@@ -32,8 +32,6 @@
 &nbsp;
 
 ## Salida
-
-
 <p align="center">
 <img src="https://github.com/Daniela06112002/DMI_PRACTICA16_200644/blob/main/src/screenshots/ConsultaBase.png" width="90%"/>
 <img src="https://github.com/Daniela06112002/DMI_PRACTICA16_200644/blob/main/src/screenshots/Controlador.png" width="90%"/>
@@ -41,7 +39,6 @@
 <img src="https://github.com/Daniela06112002/DMI_PRACTICA16_200644/blob/main/src/screenshots/Prueba Ruta.png" width="90%"/>
 <img src="https://github.com/Daniela06112002/DMI_PRACTICA16_200644/blob/main/src/screenshots/Rutas.png" width="90%"/>
 </p>
-
 
 
 <br>
